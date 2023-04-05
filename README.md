@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**ecomterwork/ecomterwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hellooooo!
+Yes, it's me! Another ecomter!
+I will share my work code in this account.
+  
+## About me
+I'm ecomter
+My personal account: 
+[https://github.com/easycomputer]
+# What can I do
+CSS/HTML, C Sharp, C, and a little Python
